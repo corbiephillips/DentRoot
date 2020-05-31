@@ -9,7 +9,11 @@ Aggregation functions:
 --Going to skip some for time because they are easy--
 Q2 SELECT count(userid), campaign_id FROM users
    GROUP BY(campaign_id);
+ 
+---paused on Aggregate Functions #8, which has this weird 'date_part structure' I don't understand. The underlying skill to learn is how to take the 'dt' file dna d make a WHERE caluse off of only part of it. Lots of ways to do that'
+
    
+ 
 
 
 
