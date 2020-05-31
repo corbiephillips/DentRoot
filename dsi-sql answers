@@ -1,2 +1,15 @@
 Answers to the dsi-sql excercises
-Individual answers:
+Individual excercise answers:
+Select statements: 
+Q2 SELECT userid FROM users;
+Q3 SELECT DISTINCT campaign_id FROM users;v
+Q4 SELECT * FROM users WHERE campaign_id='FB';
+
+Aggregation functions:
+--Going to skip some for time because they are easy--
+Q2 SELECT count(userid), campaign_id FROM users
+   GROUP BY(campaign_id);
+   
+
+
+
