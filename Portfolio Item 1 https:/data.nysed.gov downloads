@@ -1,6 +1,7 @@
 Plan of action:
 1. Find a relevant data set 
-     https://data.nysed.gov/downloads.php looks very promising
+     https://data.nysed.gov/downloads.php looks very very promising
+     *Going with the 2018-19 Report Card database*
 2. Import into Postgres
 3. Clean and analyze!!
 
