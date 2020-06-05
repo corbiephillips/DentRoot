@@ -1,20 +1,42 @@
 PORTFOLIO ITEM 1: 
 
-June 1:
-I have downloaded the 2018-19 Report Cards set as a zip file. How to get into into Postgres?
-If I can get the file into .sql format on the desktop, I can get it to user Rosie's download section, and run 
-\i c:/users/rosie/readychef.sql 
-which is what worked for readychef. 
+Possible Research Questions:
+1. How does Pacifica School district compare to others in region?
+2. What school districts in the area are the best performers?
+     Then find a way to cross compare with affordability of housing in those districts?
+3. What school districts in the state have had the most dramatic drop offs from say 2013 to 2018? The biggest gains?
+4. What school distrcits have NOT gotten better as the districts around them have gotten better?
+5. Many of the questions might be more interesting at the school level, not the district level. 
+6. For example, what schools have not gotten better when the district around them has gotten better? And which schools have gotten better/stayed better 
+   as the district around them gets worse?
+   
+Research notes, ideas: 
+1. In this space, there will be lots of report, visualizations etc, many interested in your same questions. It will be good to see if you are getting the same results 
+   for questions like 'which is the best school district'
+2. As you reading Brookings, the trades, etc, you will get more ideas for research questions. 
+3. A lot of the type of questions you are interested in will require statistical implementations, which will be interesting. 
 
-June 5 - going to find California data sets, and import those and start playing with those. 
-Also, going to try leetcode challenges. (leetcode challenges, banks fo interview questions, and 1-2 projects in a portfolio, and I can start applying. Look at the salary ranges now though)
-California data: Found a good one here: https://caaspp-elpac.cde.ca.gov/caaspp/ResearchFileList?ps=true&lstTestYear=2019&lstTestType=B&lstGroup=1&lstGrade=13&lstSchoolType=A&lstCounty=00&lstDistrict=00000&lstSchool=0000000#dl
-but they are only available in csv and txt format. How to convert csv to sql file? I am trying sqlizer
+TABLE RELATIONSHIPS: 
+
+
 
 Plan of action:
 1. Convert to SQL and get loading into your postgres
 2. Understand the data - what the headers area, how tables relate. Domain knowledge, etc. 
 3. Play around, pull out insights.
+
+Getting data into Postgres. 
+I have downloaded the 2018-19 Report Cards set as a zip file. How to get into into Postgres?
+If I can get the file into .sql format on the desktop, I can get it to user Rosie's download section, and run 
+\i c:/users/rosie/readychef.sql 
+which is what worked for readychef. 
+
+Going to find California data sets, and import those and start playing with those. 
+Also, going to try leetcode challenges. (leetcode challenges, banks fo interview questions, and 1-2 projects in a portfolio, and I can start applying. Look at the salary ranges now though)
+California data: Found a good one here: https://caaspp-elpac.cde.ca.gov/caaspp/ResearchFileList?ps=true&lstTestYear=2019&lstTestType=B&lstGroup=1&lstGrade=13&lstSchoolType=A&lstCounty=00&lstDistrict=00000&lstSchool=0000000#dl
+but they are only available in csv and txt format. How to convert csv to sql file? I am trying sqlizer
+
+
 
 
 
