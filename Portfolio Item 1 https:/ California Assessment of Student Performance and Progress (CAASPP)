@@ -1,0 +1,20 @@
+PORTFOLIO ITEM 1: 
+
+June 1:
+I have downloaded the 2018-19 Report Cards set as a zip file. How to get into into Postgres?
+If I can get the file into .sql format on the desktop, I can get it to user Rosie's download section, and run 
+\i c:/users/rosie/readychef.sql 
+which is what worked for readychef. 
+
+June 5 - going to find California data sets, and import those and start playing with those. 
+Also, going to try leetcode challenges. (leetcode challenges, banks fo interview questions, and 1-2 projects in a portfolio, and I can start applying. Look at the salary ranges now though)
+California data: Found a good one here: https://caaspp-elpac.cde.ca.gov/caaspp/ResearchFileList?ps=true&lstTestYear=2019&lstTestType=B&lstGroup=1&lstGrade=13&lstSchoolType=A&lstCounty=00&lstDistrict=00000&lstSchool=0000000#dl
+but they are only available in csv and txt format. How to convert csv to sql file? I am trying sqlizer
+
+Plan of action:
+1. Convert to SQL and get loading into your postgres
+2. Understand the data - what the headers area, how tables relate. Domain knowledge, etc. 
+3. Play around, pull out insights.
+
+
+
