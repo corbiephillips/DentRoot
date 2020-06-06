@@ -23,7 +23,7 @@ Q2 SELECT count(userid), campaign_id FROM users
  
 ---paused on Aggregate Functions #8, which has this weird 'date_part structure' I don't understand. The underlying skill to learn is how to take the 'dt' file dna d make a WHERE caluse off of only part of it. Lots of ways to do that'
 
-   
+** DONT UNDERSTAND, BUT MIGHT NOT BE IMPORTANT: Aggregate function q8 - about date_part
  
 
 
