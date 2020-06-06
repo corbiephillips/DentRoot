@@ -1,1 +1,3 @@
 Would I benefit from a sql editor; ie a tool that lets me type out queries? Google postgres sql editor
+pgadmine does a lot of this, and many other things. pgadmin is described as the #1 GUI tool used with postgres. 
+, it's probably vital to be used in professional sql work.
