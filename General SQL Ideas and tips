@@ -1,0 +1,8 @@
+Would I benefit from a sql editor; ie a tool that lets me type out queries? Google postgres sql editor
+pgadmine does a lot of this, and many other things. pgadmin is described as the #1 GUI tool used with postgres. 
+, it's probably vital to be used in professional sql work.
+
+Tip: SUM(CASE WHEN) can be useful when you need multiple totals:"
+10. From the `events` table, write a query that gets the total number of buys, likes and shares for each meal id. 
+_Extra_: To avoid having to do this as three separate queries you can do the count of the number of buys like this: `SUM(CASE WHEN event='bought' THEN 1 ELSE 0 END)`.
+"
