@@ -1,3 +1,14 @@
+TABLES
+
+events
+meals
+referrals
+users
+visits
+
+
+
+
 Answers to the dsi-sql excercises
 Individual excercise answers:
 Select statements: 
