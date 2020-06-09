@@ -6,3 +6,5 @@ Tip: SUM(CASE WHEN) can be useful when you need multiple totals:"
 10. From the `events` table, write a query that gets the total number of buys, likes and shares for each meal id. 
 _Extra_: To avoid having to do this as three separate queries you can do the count of the number of buys like this: `SUM(CASE WHEN event='bought' THEN 1 ELSE 0 END)`.
 "
+
+Tip: When using a Group By in a subquery, must use aliases
