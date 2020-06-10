@@ -8,3 +8,5 @@ _Extra_: To avoid having to do this as three separate queries you can do the cou
 "
 
 Tip: When using a Group By in a subquery, must use aliases
+
+Learn more about: windows functions, such as partition by:  https://www.sqlshack.com/sql-partition-by-clause-overview/
