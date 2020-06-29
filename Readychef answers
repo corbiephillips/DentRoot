@@ -25,6 +25,6 @@ Q2 SELECT count(userid), campaign_id FROM users
 
 Aggregate function q8 - about date_part. Oh, it's just a function designed to pick out parts for a data-formatted data
  
-
+windows functions seem to be a common solution, learn about them. 
 
 
